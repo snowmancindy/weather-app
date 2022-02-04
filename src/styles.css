@@ -21,3 +21,6 @@ button {
   position: relative;
   top: -18px;
 }
+.link {
+  text-align: center;
+}
