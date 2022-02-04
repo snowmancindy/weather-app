@@ -1,0 +1,23 @@
+form {
+  display: inline;
+}
+
+button {
+  display: inline;
+}
+.card {
+  max-width: 600px;
+  margin: 20px auto;
+}
+.search-bar {
+  text-align: center;
+  padding: 30px;
+}
+.btn {
+  height: 35px;
+}
+.unit {
+  font-size: small;
+  position: relative;
+  top: -18px;
+}
